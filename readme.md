@@ -185,6 +185,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [FocalBoard](https://www.focalboard.com/) | [@focalboard](https://x.com/Focalboard) | Free Open Source | Focalboard is an open source, multilingual, self-hosted project management tool that's an alternative to Trello, Notion, and Asana. |
 | [Aha!](https://www.aha.io) | [@aha_io](https://twitter.com/aha_io) | $69/mo, Ask about startup plan | The new way to create brilliant product strategy and visual roadmaps. |
 | [Sprintly](https://sprint.ly) | [@sprintly](https://twitter.com/sprintly) | $49/mo- $399/mo | Don't ask how projects are going. Watch how they're going in real-time. Use our elegant interface to prioritize, tag, manage, estimate, and measure your software developers' progress in real-time. |
 | [Podio](https://podio.com) | [@Podio](https://twitter.com/Podio) | Free | Teamwork made easy. News and views from the team behind Podio - changing the way the world works since 2009. |
