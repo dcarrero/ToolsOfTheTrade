@@ -482,6 +482,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [QuickChart](https://quickchart.io/) | | Open source, self-hosted. Free hosted tier, paid from $40/mo | Add chart and graph images to your emails. Supports Chart.js and Google Image Charts formats. |
+| [Acumbamail](https://acumbamail.com) | [@acumbamail]((https://x.com/acumbamail)) | Free and paid options | Acumbamail is a complete email marketing tool, newsletter generation, transactional email and SMS. All our servers are in Spain. |
 | [MailCharts](https://www.mailcharts.com) | [@mailcharts](https://twitter.com/mailcharts) | $30/mo | Track & understand how your competitors use email marketing. MailCharts tracks over a thousand companies, bringing you actionable insights to help you improve your email marketing strategy, make data-driven decisions and gain design and content inspiration. |
 | [Customer.io](https://customer.io) | [@CustomerIO](https://twitter.com/CustomerIO) | $50/mo - $1250/mo | Send email based on what people do or don't do in your app. Customer.io lets you send newsletters to segments of customers using data from your site. |
 | [Vero](https://www.getvero.com) | [@getvero](https://twitter.com/getvero) | $99/mo | Send emails based on what your customers do. Vero makes it easy to create segments of customers based on the attributes you capture (e.g. age, location, gender) and the actions your customers take (e.g. logged in, used feature x, checked out, etc.). |
